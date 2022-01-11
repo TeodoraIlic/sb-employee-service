@@ -1,0 +1,4 @@
+microservice\springboot\employeeservice\web\model\EmployeeGeneralDTO.class
+microservice\springboot\employeeservice\web\model\EmployeePagedList.class
+microservice\springboot\employeeservice\web\model\EmployeePersonalDTO$EmployeePersonalDTOBuilder.class
+microservice\springboot\employeeservice\web\model\EmployeePersonalDTO.class
